@@ -1,0 +1,108 @@
+{
+    "owner_id": "1553056",
+    "members": {
+        "1623598": {
+            "id": "1623598",
+            "local_score": 8,
+            "stars": 6,
+            "last_star_ts": 1638530122,
+            "global_score": 0,
+            "name": "mikebijl",
+            "completion_day_level": {
+                "3": {
+                    "1": {
+                        "get_star_ts": 1638522041
+                    },
+                    "2": {
+                        "get_star_ts": 1638530122
+                    }
+                },
+                "1": {
+                    "1": {
+                        "get_star_ts": 1638367207
+                    },
+                    "2": {
+                        "get_star_ts": 1638367655
+                    }
+                },
+                "2": {
+                    "1": {
+                        "get_star_ts": 1638436058
+                    },
+                    "2": {
+                        "get_star_ts": 1638439851
+                    }
+                }
+            }
+        },
+        "1553056": {
+            "id": "1553056",
+            "local_score": 16,
+            "global_score": 0,
+            "last_star_ts": 1638539219,
+            "stars": 6,
+            "completion_day_level": {
+                "2": {
+                    "2": {
+                        "get_star_ts": 1638433390
+                    },
+                    "1": {
+                        "get_star_ts": 1638431282
+                    }
+                },
+                "1": {
+                    "1": {
+                        "get_star_ts": 1638341674
+                    },
+                    "2": {
+                        "get_star_ts": 1638342030
+                    }
+                },
+                "3": {
+                    "2": {
+                        "get_star_ts": 1638539219
+                    },
+                    "1": {
+                        "get_star_ts": 1638514733
+                    }
+                }
+            },
+            "name": "Arko de Leeuw"
+        },
+        "1623088": {
+            "stars": 6,
+            "last_star_ts": 1638529174,
+            "global_score": 0,
+            "completion_day_level": {
+                "2": {
+                    "2": {
+                        "get_star_ts": 1638433709
+                    },
+                    "1": {
+                        "get_star_ts": 1638433494
+                    }
+                },
+                "1": {
+                    "2": {
+                        "get_star_ts": 1638367678
+                    },
+                    "1": {
+                        "get_star_ts": 1638366580
+                    }
+                },
+                "3": {
+                    "1": {
+                        "get_star_ts": 1638521044
+                    },
+                    "2": {
+                        "get_star_ts": 1638529174
+                    }
+                }
+            },
+            "name": "btimmerhuis",
+            "id": "1623088",
+            "local_score": 12
+        }
+    },
+    "event": "2021"
+}
